@@ -1,0 +1,18 @@
+=========================================================================================================================
+| **German** | **Pronunciation**    | **Example Sentence**                     | **English Translation**                |
+| ---------- | -------------------- | ---------------------------------------- | -------------------------------------- |
+| Januar     | YAH-noo-ar           | Der Januar ist sehr kalt in Deutschland. | January is very cold in Germany.       |
+| Februar    | FAY-broo-ar          | Im Februar feiern wir Karneval.          | In February we celebrate Carnival.     |
+| März       | Mehrts (ä = “air”)   | Der Frühling beginnt im März.            | Spring begins in March.                |
+| April      | Ah-PRIL (stress 2nd) | Im April regnet es oft.                  | It often rains in April.               |
+| Mai        | My                   | Der Mai ist mein Lieblingsmonat.         | May is my favorite month.              |
+| Juni       | YOO-nee              | Im Juni haben wir Sommerferien.          | In June we have summer vacation.       |
+| Juli       | YOO-lee              | Der Juli ist sehr heiß.                  | July is very hot.                      |
+| August     | Ow-GOOST             | Im August fahren viele Leute in Urlaub.  | In August many people go on vacation.  |
+| September  | Zep-TEM-ber          | Die Schule beginnt im September.         | School begins in September.            |
+| Oktober    | Ok-TOH-ber           | Im Oktober feiern wir Oktoberfest.       | In October we celebrate Oktoberfest.   |
+| November   | No-VEM-ber           | Im November ist das Wetter oft grau.     | In November the weather is often gray. |
+| Dezember   | Day-TSEM-ber         | Im Dezember feiern wir Weihnachten.      | In December we celebrate Christmas.    |
+=========================================================================================================================
+
+
