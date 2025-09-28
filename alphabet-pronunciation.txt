@@ -3,39 +3,39 @@ GERMAN ALPHABETS and PRONUNCIATION
 
 26+4 letters
 ===============================================================================================================================|
-Letter 	Name (German) 	Pronunciation 		Example Word (German) 	Meaning & Detailed Sound Similarity		       |	
+Letter	Name (German)	Pronunciation		Example Word (German)  Meaning & Detailed Sound Similarity		       |	
 ===============================================================================================================================|
-A 	ah 		ah (as in father) 	Apfel 			apple – like 'a' in father / car                      
-B 	beh 		b 			Brot 			bread – like 'b' in bed / ball                         
-C 	tseh 		ts / k 			Café 			before e/i = 'ts' in cats; before a/o/u = 'k' in cat
-D 	deh 		d 			Dom 			cathedral – like 'd' in dog / day
-E 	eh 		ay (short/tense) 	Esel 			donkey – like 'e' in net (short) or 'ay' in say (long)
-F 	eff 		f 			Fisch 			fish – like 'f' in fun / fast
-G 	geh 		g (hard) 		Garten 			garden – like 'g' in go / good (never 'g' as in giant)
-H 	hah 		h 			Haus 			house – like 'h' in hat / home
-I 	ih 		ee 			Igel 			hedgehog – like 'ee' in see / meet
-J 	jot 		y 			Jahr 			year – like 'y' in yes / yellow
-K 	kah 		k 			Katze 			cat – like 'k' in cat / king
-L 	ell 		l 			Lampe 			lamp – like 'l' in lamp / love
-M 	emm 		m 			Maus 			mouse – like 'm' in man / mouse
-N 	enn 		n 			Nase 			nose – like 'n' in net / nose
-O 	oh 		o 			Ofen 			oven – like 'o' in go / home (no diphthong)
-P 	peh 		p 			Pferd 			horse – like 'p' in pen / park
-Q 	kuh 		kv 			Quelle 			source – always 'kv' like 'queen'
-R 	err 		guttural r 		Rot 			red – throat sound, rolled slightly, not English 'r'
-S 	ess 		s/z 			Sonne 			sun – before vowels: 'z' in zoo; elsewhere: 's' in see
-T 	teh 		t 			Tisch 			table – like 't' in top / ten
-U 	uh 		oo 			Uhr 			clock – like 'oo' in moon / food
-V 	fau 		f 			Vater 			father – like 'f' in fish / fan
-W 	weh 		v 			Wasser 			water – like 'v' in van / vase
-X 	iks 		ks 			Xylofon 		xylophone – like 'x' in six / extra
-Y 	ypsilon 	ü / i 			Yoga 			loanwords: 'ü' (like French 'tu') or 'i' (like 'i' in myth)
-Z 	tsett 		ts 			Zeit 			time – like 'ts' in cats / pizza
+A	ah		ah (as in father)	Apfel			apple – like 'a' in father / car                      
+B	beh		b			Brot			bread – like 'b' in bed / ball                         
+C	tseh		ts / k			Café			before e/i = 'ts' in cats; before a/o/u = 'k' in cat
+D	deh		d			Dom			cathedral – like 'd' in dog / day
+E	eh		ay (short/tense)	Esel			donkey – like 'e' in net (short) or 'ay' in say (long)
+F	eff		f			Fisch			fish – like 'f' in fun / fast
+G	geh		g (hard)		Garten			garden – like 'g' in go / good (never 'g' as in giant)
+H	hah		h			Haus			house – like 'h' in hat / home
+I	ih		ee			Igel			hedgehog – like 'ee' in see / meet
+J	jot		y			Jahr			year – like 'y' in yes / yellow
+K	kah		k			Katze			cat – like 'k' in cat / king
+L	ell		l			Lampe			lamp – like 'l' in lamp / love
+M	emm		m			Maus			mouse – like 'm' in man / mouse
+N	enn		n			Nase			nose – like 'n' in net / nose
+O	oh		o			Ofen			oven – like 'o' in go / home (no diphthong)
+P	peh		p			Pferd			horse – like 'p' in pen / park
+Q	kuh		kv			Quelle			source – always 'kv' like 'queen'
+R	err		guttural r		Rot			red – throat sound, rolled slightly, not English 'r'
+S	ess		s/z			Sonne			sun – before vowels: 'z' in zoo; elsewhere: 's' in see
+T	teh		t			Tisch			table – like 't' in top / ten
+U	uh		oo			Uhr			clock – like 'oo' in moon / food
+V	fau		f			Vater			father – like 'f' in fish / fan
+W	weh		v			Wasser			water – like 'v' in van / vase
+X	iks		ks			Xylofon			xylophone – like 'x' in six / extra
+Y	ypsilon		ü / i			Yoga			loanwords: 'ü' (like French 'tu') or 'i' (like 'i' in myth)
+Z	tsett		ts			Zeit			time – like 'ts' in cats / pizza
 ====================================================================================================================================
-Ä 	Umlaut-A 	eh 			Äpfel 			apples – like 'e' in bed / red (longer, tenser)
-Ö 	Umlaut-O 	eu 			Öl 			oil – like 'i' in sir / fur but with rounded lips
-Ü 	Umlaut-U 	ü 			Über 			over – like 'ee' in see with lips rounded (French 'lune')
-ß 	Eszett 		ss 			Straße 			street – like 'ss' in kiss / glass
+Ä	Umlaut-A	eh			Äpfel			apples – like 'e' in bed / red (longer, tenser)
+Ö	Umlaut-O	eu			Öl			oil – like 'i' in sir / fur but with rounded lips
+Ü	Umlaut-U	ü			Über			over – like 'ee' in see with lips rounded (French 'lune')
+ß	Eszett		ss			Straße			street – like 'ss' in kiss / glass
 ====================================================================================================================================
 
 
