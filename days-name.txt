@@ -1,0 +1,21 @@
+======================================================================================================================================|
+German			English		Pronunciation (approx.)		Notes							      |
+Montag			Monday		MOHN-tahk			From Mond = moon. Masculine noun (der Montag).                |
+Dienstag		Tuesday		DEEN-stahk			From god Týr. Masculine noun.				      |	
+Mittwoch		Wednesday	MITT-vokh			Literally “mid-week.” Only day not named after a god.	      |
+Donnerstag		Thursday	DON-ers-tahk			From Donner = thunder (Thor’s day).			      |
+Freitag			Friday		FRY-tahk			From goddess Freya. Masculine noun.			      |
+Samstag / Sonnabend	Saturday	ZAHM-stahk / ZON-ah-bent	Samstag = south/central Germany. Sonnabend = northern Germany.|
+Sonntag			Sunday		ZON-tahk			From Sonne = sun. Masculine noun.			      |	
+======================================================================================================================================|
+
+✨ Grammar Notes:
+=====================================================================
+All days are masculine nouns (always der).
+
+Always capitalized (like all German nouns).
+
+To say “on [day]” → use am + day (e.g., am Montag = on Monday).
+
+Plural form → usually add -e (Montage, Dienstage, Freitage).
+=====================================================================
