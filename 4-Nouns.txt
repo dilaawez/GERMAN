@@ -16,7 +16,7 @@ die = feminine
 
 das = neuter
 
-Nouns also change depending on number (singular/plural) and case (nominative, accusative, dative, genitive).
+# Nouns also change depending on number (singular/plural) and case (nominative, accusative, dative, genitive).
 
 2. Pronunciation of Articles
 
@@ -27,36 +27,41 @@ die → like “dee”
 das → like “dahs”
 
 3. Examples by Gender
-Masculine Nouns (der)
 
+Masculine Nouns (der)
+---------------------
 Often end in -er, -en, -el.
 
-German		Pronunciation (English sounds)	English
-der Mann	dare mahn	the man
-der Hund	dare hoond	the dog
-der Tisch	dare tish	the table
-der Lehrer	dare LAY-rer	the teacher
-der Apfel	dare AHP-fel	the apple
-Feminine Nouns (die)
+German		    Pronunciation (English sounds)	English
+der Mann	    dare mahn	                    the man
+der Hund	    dare hoond	                    the dog
+der Tisch	    dare tish	                    the table
+der Lehrer	    dare LAY-rer	                the teacher
+der Apfel	    dare AHP-fel	                the apple
 
+
+Feminine Nouns (die)
+--------------------
 Often end in -e, -heit, -keit, -ung.
 
-German		Pronunciation (English sounds)	English
-die Frau	dee frow (rhymes with cow)	the woman
-die Katze	dee KAHT-tseh	the cat
-die Blume	dee BLOO-meh	the flower
-die Freiheit	dee FRY-hite	freedom
-die Zeitung	dee TSI-tung	the newspaper
-Neuter Nouns (das)
+German		    Pronunciation (English sounds)	English
+die Frau	    dee frow (rhymes with cow)	    the woman
+die Katze	    dee KAHT-tseh	                the cat
+die Blume	    dee BLOO-meh	                the flower
+die Freiheit    dee FRY-hite	                freedom
+die Zeitung	    dee TSI-tung	                the newspaper
 
+Neuter Nouns (das)
+------------------
 Often end in -chen, -lein, -ment, -um.
 
-German		Pronunciation (English sounds)	English
-das Kind	dahs kint	the child
-das Buch	dahs bookh (like book with throaty ‘kh’)	the book
-das Mädchen	dahs MAYT-chen	the girl
-das Auto	dahs OW-toh	the car
-das Zentrum	dahs TSEHN-trum	the center
+German		    Pronunciation (English sounds)	English
+das Kind	    dahs kint	                    the child
+das Buch	    dahs bookh (like book with throaty ‘kh’)	the book
+das Mädchen	    dahs MAYT-chen	                the girl
+das Auto	    dahs OW-toh	                    the car
+das Zentrum	    dahs TSEHN-trum	                the center
+
 4. Sentence Examples
 
 Der Mann liest ein Buch.
