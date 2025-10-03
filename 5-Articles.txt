@@ -1,0 +1,64 @@
+🇩🇪 German Articles (Artikel)
+
+1. Definition
+--------------
+ Articles are words that come before nouns to show their gender, number, and case.
+ In German, articles are essential because they tell you if a noun is masculine (der), feminine (die), neuter (das), or plural (die).
+ Unlike English, German articles change depending on case (nominative, accusative, dative, genitive).
+
+2. Articles in German
+----------------------
+1. Definite Articles (the)
+Case				Masculine (der)		Feminine (die)		Neuter (das)		Plural (die)
+Nominative (subject)		der → dare → the	die → dee → the		das → dahs → the	die → dee → the
+Accusative (direct object)	den → dayn → the	die → dee → the		das → dahs → the	die → dee → the
+Dative (indirect object)	dem → daym → the	der → dare → the	dem → daym → the	den → dayn → the
+Genitive (possession)		des → dess → of the	der → dare → of the	des → dess → of the	der → dare → of the
+
+2. Indefinite Articles (a/an)
+------------------------------
+
+⚠️ Note: No plural form for “a/an” in German.
+
+Case				Masculine		Feminine		Neuter			Plural
+Nominative			ein → ine → a		eine → ine-uh → a	ein → ine → a	—
+Accusative			einen → ine-en → a	eine → ine-uh → a	ein → ine → a	—
+Dative				einem → ine-em → a	einer → ine-er → a	einem → ine-em → a	—
+Genitive			eines → ine-ess → of a	einer → ine-er → of a	eines → ine-ess → of a	—
+
+3. Usage Examples
+------------------
+Nominative (subject):
+ Der Mann liest. → Dare mahn leest. → The man is reading.
+ Accusative (direct object):
+ Ich sehe den Hund. → Ish zay-uh dayn hoond. → I see the dog.
+ Dative (indirect object):
+ Ich gebe dem Kind ein Buch. → Ish gay-buh daym kint ine bookh. → I give the child a book.
+ Genitive (possession):
+ Das ist das Auto des Mannes. → Dahs ist dahs ow-to dess mahn-ess. → That is the man’s car.
+________________________________________
+✅ Key takeaway:
+•	Articles in German always agree with the noun’s gender, number, and case.
+•	Definite = the (der/die/das).
+•	Indefinite = a/an (ein/eine).
+•	Articles change form depending on role in the sentence (subject, object, etc.).
+________________________________________
+3. Rules & Notes
+1.	Every noun in German has a gender — masculine, feminine, or neuter. The article shows you the gender.
+o	der Mann → the man (masculine)
+o	die Frau → the woman (feminine)
+o	das Kind → the child (neuter)
+2.	Articles also change with case (we’ll learn this later in “Cases”):
+o	Nominative: der Mann (the man — subject)
+o	Accusative: den Mann (the man — object)
+3.	Plural nouns always use “die” in nominative case.
+o	die Kinder → the children
+4.	No indefinite article in plural (you cannot say “a children”).
+o	Kinder → children (some / any children)
+________________________________________
+✅ Summary:
+•	Articles in German = small words before nouns.
+•	Definite → der/die/das (the).
+•	Indefinite → ein/eine (a/an).
+•	They show gender, number, and case.
+
