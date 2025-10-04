@@ -1,0 +1,192 @@
+🇩🇪 German Pronouns (Die Pronomen)
+=================================
+
+1. Definition
+--------------
+Pronouns are words that replace nouns to avoid repetition.
+
+In German, pronouns change depending on case (nominative, accusative, dative, genitive), gender, and number.
+
+They must agree with the noun they replace.
+
+
+2. Types of Pronouns
+---------------------
+Personal pronouns – I, you, he, she, it, we, they
+
+Possessive pronouns – my, your, his, her, its, our, their
+
+Reflexive pronouns – myself, yourself, etc.
+
+Demonstrative pronouns – this, that, these, those
+
+Relative pronouns – who, which, that
+
+Interrogative pronouns – who, what, which
+
+Indefinite pronouns – someone, nobody, everything
+
+
+3. Personal Pronouns (Nominative Case)
+---------------------------------------
+German		Pronunciation (English sounds)		English
+ich		ikh (soft “ch” like in “huge”)		I
+du		doo					you (informal, singular)
+er		air					he
+sie		zee					she
+es		ess					it
+wir		veer					we
+ihr		ear					you (informal, plural)
+sie		zee					they
+Sie		zee (capital S)				you (formal, singular & plural)
+
+Examples:
+
+Ich bin müde. → Ikh bin myoo-duh. → I am tired.
+
+Du bist freundlich. → Doo bist froind-likh. → You are friendly.
+
+Sie ist Ärztin. → Zee ist airt-sin. → She is a doctor.
+
+Wir gehen nach Hause. → Veer gay-en nahkh how-zeh. → We are going home.
+
+4. Personal Pronouns (Accusative – Direct Object)
+--------------------------------------------------
+
+English		German		Pronunciation (English sounds)
+me		mich		mikh
+you (singular informal)	dich	dikh
+him		ihn		een
+her		sie		zee
+it		es		ess
+us		uns		oons
+you (plural informal)	euch	oykh
+them		sie		zee
+you (formal)	Sie		zee
+
+Examples:
+
+Er sieht mich. → Air zeet mikh. → He sees me.
+
+Ich liebe dich. → Ikh lee-buh dikh. → I love you.
+
+Sie kennt ihn. → Zee kent een. → She knows him.
+
+
+5. Personal Pronouns (Dative – Indirect Object)
+------------------------------------------------
+English		German		Pronunciation (English sounds)
+to me		mir		meer
+to you		dir		deer
+to him		ihm		eem
+to her		ihr		ear
+to it		ihm		eem
+to us		uns		oons
+to you (plural)	euch		oykh
+to them		ihnen		ee-nen
+to you (formal)	Ihnen		ee-nen
+
+Examples:
+
+Er gibt mir das Buch. → Air gipt meer dahs bookh. → He gives me the book.
+
+Ich helfe dir. → Ikh hel-feh deer. → I help you.
+
+Sie dankt ihnen. → Zee dahnkt ee-nen. → She thanks them.
+
+6. Possessive Pronouns (my, your, his...)
+------------------------------------------
+English		Masculine	Feminine	Neuter		Pronunciation (English sounds)
+my		mein		meine		mein		mine, mine-uh
+your (informal)	dein		deine		dein		dine, dine-uh
+his		sein		seine		sein		zine, zine-uh
+her		ihr		ihre		ihr		ear, ear-uh
+our		unser		unsere		unser		oon-ser, oon-seh-reh
+your (plural informal)	euer	eure		euer		oy-er, oy-reh
+their / your (formal)	ihr / Ihr	ihre / Ihre	ihr / Ihr	ear, ear-uh
+
+Examples:
+
+Das ist mein Auto. → Dahs ist mine ow-toh. → That is my car.
+
+Ihre Katze ist süß. → Ear-uh kaht-seh ist zews. → Her cat is cute.
+
+Unser Haus ist groß. → Oon-ser house ist gross. → Our house is big.
+
+
+7. Reflexive Pronouns
+----------------------
+Used when the action reflects back on the subject.
+
+English			German		Pronunciation		Example
+myself			mich / mir	mikh / meer		Ich wasche mich. → Ikh vah-sheh mikh. → I wash myself.
+yourself		dich / dir	dikh / deer		Du siehst dich im Spiegel. → Doo zeest dikh im shpee-gel. → You see yourself in the mirror.
+himself / herself / itself	sich	zikh			Er rasiert sich. → Air rah-zeert zikh. → He shaves himself.
+ourselves		uns		oons			Wir waschen uns. → Veer vah-shen oons. → We wash ourselves.
+yourselves		euch		oykh			Ihr freut euch. → Ear froyt oykh. → You (pl.) are happy.
+
+
+8. Demonstrative Pronouns (this, that)
+---------------------------------------
+German		Pronunciation	English
+dieser		dee-zer	this	(masculine)
+diese		dee-zeh	this	(feminine/plural)
+dieses		dee-zes	this	(neuter)
+jener / jene / jenes	yay-ner / yay-neh / yay-nes	that (masculine/feminine/neuter)
+
+Example:
+
+Dieses Buch ist interessant. → Dee-zes bookh ist int-er-ess-ant. → This book is interesting.
+
+
+9. Relative Pronouns (who, which, that)
+----------------------------------------
+Used to connect clauses.
+
+der, die, das, welcher, welche, welches
+
+Example:
+
+Der Mann, der dort steht, ist mein Vater.
+Dare mahn, dare dort shtayt, ist mine fah-ter.
+The man who stands there is my father.
+
+
+10. Interrogative Pronouns (question words)
+--------------------------------------------
+German		Pronunciation	English
+wer		vair		who
+was		vahs		what
+welcher / welche / welches	vel-kher / vel-kheh / vel-khes	which
+wem		vaym		to whom
+wen		vayn		whom (accusative)
+
+Example:
+
+Wer bist du? → Vair bist doo? → Who are you?
+
+Was machst du? → Vahs makhst doo? → What are you doing?
+
+
+11. Indefinite Pronouns (someone, nothing, everything)
+-------------------------------------------------------
+German		Pronunciation		English
+jemand		yay-mant		someone
+niemand		nee-mant		no one
+etwas		et-vahs			something
+nichts		nikhts			nothing
+alle		ah-leh			everyone/all
+
+Example:
+
+Jemand klopft an die Tür. → Yay-mant klopft an dee tewr. → Someone is knocking at the door.
+
+✅ Key Rules
+
+Pronouns must match the noun’s gender, number, and case.
+
+The formal “Sie” is always capitalized, singular or plural.
+
+Reflexive verbs require reflexive pronouns — often in the accusative or dative case.
+
+Pronoun endings change by case — knowing cases is essential to use pronouns correctly.
