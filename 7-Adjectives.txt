@@ -1,0 +1,113 @@
+🇩🇪 5. Adjectives (Adjektive)
+=============================
+
+📘 Definition
+
+Adjectives (Adjektive) are words that describe nouns — they tell you what kind, which one, or how something is.
+
+In German, adjectives change their endings depending on the gender, number, and case of the noun they describe.
+
+🧠 Example:
+
+ein schöner Tag → “a beautiful day”
+
+eine schöne Frau → “a beautiful woman”
+
+ein schönes Haus → “a beautiful house”
+
+🎧 Pronunciation (in English sounds)
+-------------------------------------
+German		Pronunciation		English
+Adjektiv	ahd-yek-teef		adjective
+schön		shern			beautiful
+klein		kline			small
+groß		gross (like “gross” in English but with longer ‘o’)	big / tall
+alt		ahlt			old
+neu		noy			new
+
+🧱 Position in a Sentence
+---------------------------
+Adjectives in German can appear in two main forms:
+
+Attributive adjectives → come before the noun and take endings.
+
+Example: ein schöner Hund → a beautiful dog
+
+The ending (-er) depends on the article and case.
+
+
+Predicate adjectives → come after the verb (usually sein = to be) and don’t take endings.
+
+Example: Der Hund ist schön. → The dog is beautiful.
+
+🧩 Examples (with pronunciation & translation)
+-----------------------------------------------
+German Sentence		Pronunciation (English sounds)		English Translation
+Der Hund ist groß.	Dair hoond ist gross.			The dog is big.
+Die Blume ist schön.	Dee bloo-meh ist shern.			The flower is beautiful.
+Das Haus ist alt.	Dahs hous ist ahlt.			The house is old.
+Ein kleines Kind spielt.	Ine kline-ess kint shpeelt.	A small child is playing.
+Eine rote Blume.	I-neh roh-teh bloo-meh.			A red flower.
+Ich habe ein neues Auto.	Ikh hah-beh ine noy-ess ow-toh.	I have a new car.
+
+
+⚙️ Adjective Endings (Basics)
+-----------------------------
+German adjectives change their endings depending on:
+
+Gender: masculine, feminine, neuter
+
+Case: nominative, accusative, dative, genitive
+
+Article type: definite (der/die/das) or indefinite (ein/eine/ein)
+
+Example:
+
+Article	Noun	Adjective	Translation
+der	Hund	große Hund	the big dog
+die	Katze	kleine Katze	the small cat
+das	Haus	alte Haus	the old house
+ein	Hund	großer Hund	a big dog
+eine	Blume	schöne Blume	a beautiful flower
+
+🌍 Real-Life Examples
+----------------------
+German				Pronunciation			English
+Ich trinke heißen Kaffee.	Ikh trin-keh hi-sen kah-feh.	I’m drinking hot coffee.
+Wir wohnen in einem kleinen Haus.	Veer voh-nen in ine-em kline-en hous.	We live in a small house.
+Das ist ein interessantes Buch.	Dahs ist ine in-teh-res-san-tess bookh.	That is an interesting book.
+Sie hat eine schöne Stimme.	Zee haht i-neh shern-eh shtim-meh.	She has a beautiful voice.
+
+🧠 Rule Summary
+----------------
+Concept	Rule								Example
+Adjectives before nouns	Must take endings				Ein schöner Tag
+Adjectives after “sein”	No endings					Der Tag ist schön.
+Endings depend on gender & case	Masculine, feminine, neuter, plural	Ein kleiner Hund / Eine kleine Katze
+Always lowercase	Adjectives aren’t capitalized in German		ein rotes Auto
+
+📚 Mini Practice Exercise
+--------------------------
+Translate these into English:
+
+Das ist ein kleines Haus.
+
+Der Apfel ist rot.
+
+Eine kalte Suppe.
+
+Ich sehe einen großen Hund.
+
+Die Blumen sind schön.
+
+Answers:
+
+That is a small house.
+
+The apple is red.
+
+A cold soup.
+
+I see a big dog.
+
+The flowers are beautiful.
