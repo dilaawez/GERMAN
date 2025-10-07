@@ -1,0 +1,186 @@
+🇩🇪 6. Verbs (Verben)
+📘 Definition
+
+Verbs (Verben) are words that describe actions, states, or events.
+In German, verbs are central to sentence structure — the second element in main clauses and final element in subordinate clauses.
+They change their form (conjugate) according to person, number, tense, and mood.
+
+🧠 Example:
+
+Ich gehe → I go
+
+Du gehst → You go
+
+Er geht → He goes
+
+6.1 Regular & Irregular Verbs
+📘 Definition
+
+Regular verbs (schwache Verben) follow a consistent pattern when conjugated.
+
+Irregular verbs (starke Verben) change their stem vowel or have other irregularities.
+
+🧩 Examples
+Type	German	Pronunciation	English
+Regular	spielen	shpee-len	to play
+Regular	machen	mah-khen	to do / make
+Irregular	gehen → ging → gegangen	gay-hen / ging / geh-gahng-en	go / went / gone
+Irregular	sehen → sah → gesehen	zay-hen / zah / geh-zay-hen	see / saw / seen
+
+⚙️ Rule:
+Regular verbs form the past tense with -te (e.g., machte), while irregular verbs change the stem (e.g., ging).
+
+6.2 Modal Verbs
+📘 Definition
+
+Modal verbs (Modalverben) express possibility, necessity, ability, permission, or desire.
+They modify another verb, which appears at the end of the sentence in the infinitive.
+
+📋 List of Modal Verbs
+Verb	Pronunciation	Meaning	Example	English
+dürfen	dur-fen	may / to be allowed	Ich darf gehen.	I may go.
+können	kur-nen	can / to be able	Ich kann schwimmen.	I can swim.
+mögen	moh-gen	to like	Ich mag Kaffee.	I like coffee.
+müssen	mew-sen	must / to have to	Ich muss arbeiten.	I must work.
+sollen	zo-len	should / supposed to	Du sollst lernen.	You should study.
+wollen	vol-len	to want	Wir wollen essen.	We want to eat.
+
+⚙️ Rule:
+Modal verbs change the word order — the second verb (in infinitive form) moves to the end.
+
+🧩 Example:
+
+Ich will Deutsch lernen. → I want to learn German.
+
+6.3 Separable & Inseparable Prefix Verbs
+📘 Definition
+
+Many German verbs are built with prefixes that change meaning.
+Some prefixes separate in a sentence (go to the end), while others stay attached.
+
+Type	Example	Pronunciation	Meaning	Example in Sentence
+Separable	aufstehen	owf-shtey-en	to get up	Ich stehe früh auf. → I get up early.
+Inseparable	verstehen	fair-shtey-en	to understand	Ich verstehe dich. → I understand you.
+
+⚙️ Rule:
+In the present tense, the prefix of a separable verb moves to the end of the clause.
+In the past participle, separable verbs use ge- between prefix and stem (e.g., aufgestanden), while inseparable verbs don’t (e.g., verstanden).
+
+6.4 Reflexive Verbs
+📘 Definition
+
+Reflexive verbs use a reflexive pronoun (mich, dich, sich, uns, euch, sich) and indicate that the subject and object are the same person.
+
+🧩 Examples:
+
+German	Pronunciation	English
+Ich wasche mich.	Ikh vah-sheh mikh.	I wash myself.
+Du erinnerst dich.	Doo eh-rin-erst dikh.	You remember.
+Er freut sich.	Air froyt zikh.	He is glad.
+
+⚙️ Rule:
+Reflexive pronouns change with person and case (mostly accusative).
+
+6.5 Auxiliary Verbs (Hilfsverben)
+📘 Definition
+
+Used to form compound tenses, passive voice, or subjunctive mood.
+
+Verb	Pronunciation	Meaning	Used for
+haben	hah-ben	to have	Perfect tense (most verbs)
+sein	zine	to be	Movement / state-change verbs
+werden	vair-den	to become / will	Future & passive voice
+
+🧩 Examples:
+
+Ich habe gearbeitet. → I have worked.
+
+Ich bin gegangen. → I have gone.
+
+Es wird gemacht. → It is being done.
+
+6.6 Verb Conjugation
+📘 Definition
+
+Changing the verb form based on person, number, or tense.
+
+Person	spielen (to play)	Pronunciation	English
+ich	spiele	shpee-leh	I play
+du	spielst	shpee-lst	you play
+er/sie/es	spielt	shpee-lt	he/she/it plays
+wir	spielen	shpee-len	we play
+ihr	spielt	shpee-lt	you (plural) play
+sie/Sie	spielen	shpee-len	they/you (formal) play
+6.7 Tenses (Zeiten)
+Tense	Example	Pronunciation	English
+Präsens (Present)	Ich lerne.	Ikh ler-neh.	I learn.
+Präteritum (Simple Past)	Ich lernte.	Ikh lern-teh.	I learned.
+Perfekt (Present Perfect)	Ich habe gelernt.	Ikh hah-beh geh-lernt.	I have learned.
+Plusquamperfekt (Past Perfect)	Ich hatte gelernt.	Ikh ha-teh geh-lernt.	I had learned.
+Futur I (Future)	Ich werde lernen.	Ikh vair-deh ler-nen.	I will learn.
+Futur II (Future Perfect)	Ich werde gelernt haben.	Ikh vair-deh geh-lernt hah-ben.	I will have learned.
+
+⚙️ Rule:
+German commonly uses Perfekt in speech and Präteritum in writing.
+
+6.8 Passive Voice (Passiv)
+📘 Definition
+
+Used to emphasize the action rather than the subject. Formed with werden + past participle.
+
+🧩 Example:
+
+Das Haus wird gebaut. → The house is being built.
+
+Der Brief wurde geschrieben. → The letter was written.
+
+⚙️ Rule:
+sein + worden is used for perfect passive.
+
+Das Haus ist gebaut worden. → The house has been built.
+
+6.9 Subjunctive Mood (Konjunktiv I & II)
+📘 Definition
+
+Used for reported speech, hypothetical, or polite situations.
+
+Type	Example	Pronunciation	English
+Konjunktiv I (reported)	Er sagte, er sei müde.	Air zahk-teh, air zye myoo-deh.	He said he was tired.
+Konjunktiv II (hypothetical/polite)	Ich würde gehen, wenn ich Zeit hätte.	Ikh vur-deh gay-en ven ikh tsyt heh-teh.	I would go if I had time.
+6.10 Imperative Mood (Befehlsform)
+📘 Definition
+
+Used to give commands or requests.
+
+Subject	Example	Pronunciation	English
+du	Geh!	Gay!	Go!
+ihr	Geht!	Gayt!	Go (you all)!
+Sie	Gehen Sie!	Gay-hen zee!	Go (formal)!
+6.11 Rules & Exceptions
+
+Sein, haben, and werden are irregular in all tenses.
+
+Some verbs take sein in perfect tense (movement or change of state).
+
+Ich bin gegangen. → I have gone.
+
+Modal verbs take haben in compound tenses.
+
+In subordinate clauses, verbs go to the end.
+
+Ich weiß, dass du kommst. → I know that you’re coming.
+
+Some strong verbs have mixed patterns, e.g., bringen → brachte → gebracht.
+
+✅ Summary
+
+Type	Key Function	Example
+Regular Verbs	Follow consistent endings	machen → machte → gemacht
+Irregular Verbs	Change stem vowel	sehen → sah → gesehen
+Modal Verbs	Add meaning to another verb	Ich kann schwimmen.
+Separable Verbs	Prefix splits off	Ich rufe dich an.
+Reflexive Verbs	Use reflexive pronouns	Ich wasche mich.
+Auxiliary Verbs	Build tenses	haben / sein / werden
+Passive Voice	Action-focused	Das Haus wird gebaut.
+Subjunctive	Hypothetical or polite	Ich würde gehen.
+Imperative	Commands	Geh! / Gehen Sie!
