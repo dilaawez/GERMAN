@@ -1,0 +1,166 @@
+🇩🇪 7. Adverbs (Adverbien)
+📘 Definition
+
+Adverbs (Adverbien) are words that describe or modify a verb, adjective, or another adverb — giving more detail about how, when, where, or to what extent something happens.
+
+Unlike adjectives, adverbs do not change their form to match gender, number, or case — they are invariable.
+
+🧠 Example idea:
+
+English: “She runs quickly.” → quickly describes how she runs.
+
+German: “Sie läuft schnell.” → schnell describes how she runs.
+
+🗣️ Pronunciation Tip
+
+In English sounds:
+
+Adverb = aht-vairb
+
+Adverbien = aht-vair-bee-en
+
+✳️ Main Types of Adverbs
+
+German adverbs are grouped by what they describe:
+
+7.1 Adverbs of Time (Temporaladverbien)
+
+🕓 When? How often? How long?
+
+Examples
+German	Pronunciation (English sounds)	English Translation
+heute	hoy-teh	today
+jetzt	yetst	now
+gestern	ges-tern	yesterday
+bald	bahlt	soon
+immer	im-mer	always
+nie	nee	never
+�� Example Sentences
+
+Ich arbeite heute nicht.
+Ikh ar-bye-teh hoy-teh nikht. → I’m not working today.
+
+Er kommt bald.
+Air komt bahlt. → He will come soon.
+
+Wir gehen jetzt nach Hause.
+Veer gay-en yetst nahkh how-zeh. → We’re going home now.
+
+7.2 Adverbs of Place (Lokaladverbien)
+
+📍 Where? From where? To where?
+
+Examples
+German	Pronunciation	English
+hier	heer	here
+dort / da	dort / dah	there
+überall	oo-buh-rahl	everywhere
+draußen	drow-sen	outside
+oben	oh-ben	above / upstairs
+unten	oon-ten	below / downstairs
+💬 Example Sentences
+
+Ich bin hier.
+Ikh bin heer. → I am here.
+
+Das Buch liegt dort.
+Das book leegt dort. → The book is there.
+
+Sie spielt draußen.
+Zee shpee-lt drow-sen. → She’s playing outside.
+
+7.3 Adverbs of Manner (Modaladverbien)
+
+💡 How? In what way?
+
+Examples
+German	Pronunciation	English
+schnell	shnell	quickly
+leise	ly-zeh	quietly
+gern(e)	gairn / gair-neh	gladly / with pleasure
+laut	lout	loudly
+gut	goot	well
+💬 Example Sentences
+
+Er spricht leise.
+Air shprikht ly-zeh. → He speaks quietly.
+
+Ich laufe schnell.
+Ikh low-feh shnell. → I run quickly.
+
+Wir essen gern Pizza.
+Veer ess-en gairn pits-za. → We like eating pizza.
+
+Sie singt gut.
+Zee zingt goot. → She sings well.
+
+7.4 Adverbs of Degree (Gradadverbien)
+
+📈 How much? To what extent?
+
+Examples
+German	Pronunciation	English
+sehr	zair	very
+zu	tsoo	too
+ganz	gantz	quite / completely
+wenig	vay-nikh	little
+ziemlich	tseem-likh	fairly / rather
+💬 Example Sentences
+
+Das ist sehr gut.
+Das ist zair goot. → That is very good.
+
+Er ist zu müde.
+Air ist tsoo myoo-deh. → He is too tired.
+
+Sie ist ziemlich freundlich.
+Zee ist tseem-likh froind-likh. → She is quite friendly.
+
+7.5 Comparisons of Adverbs (Steigerung der Adverbien)
+📘 Definition
+
+Like adjectives, many adverbs can be compared — to show degree or intensity.
+German uses -er for the comparative and am + -sten for the superlative.
+
+Degree	German	Pronunciation	English
+Positive	schnell	shnell	fast
+Comparative	schneller	shnell-er	faster
+Superlative	am schnellsten	ahm shnell-sten	fastest
+💬 Example Sentences
+
+Er läuft schnell. → He runs fast.
+
+Sie läuft schneller als ich. → She runs faster than me.
+
+Er läuft am schnellsten. → He runs the fastest.
+
+⚙️ Rule:
+
+Most adverbs use the same comparison pattern as adjectives.
+
+Some adverbs (like gern) have irregular forms:
+
+gern → lieber → am liebsten (like → prefer → like best)
+Example:
+
+Ich esse gern Pizza. → I like eating pizza.
+
+Ich esse lieber Pasta. → I prefer eating pasta.
+
+Ich esse am liebsten Eis. → I like ice cream best.
+
+⚖️ Rules & Quick Recap
+Category	Question	Example	English
+Time	When?	Ich komme morgen.	I’m coming tomorrow.
+Place	Where?	Das Auto steht dort.	The car is there.
+Manner	How?	Sie spricht leise.	She speaks quietly.
+Degree	How much?	Es ist sehr kalt.	It is very cold.
+
+✅ Summary
+
+Type	Example	Pronunciation	Meaning
+Time	heute, jetzt, bald	hoy-teh, yetst, bahlt	today, now, soon
+Place	hier, dort, draußen	heer, dort, drow-sen	here, there, outside
+Manner	schnell, leise, gut	shnell, ly-zeh, goot	quickly, quietly, well
+Degree	sehr, zu, ganz	zair, tsoo, gantz	very, too, quite
+Comparison	schneller, am besten	shnell-er, ahm best-en	faster, best
