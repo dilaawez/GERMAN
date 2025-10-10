@@ -1,0 +1,179 @@
+🇩🇪 8.8. Prepositions (Präpositionen)
+=====================================
+
+📘 Definition
+
+Prepositions (Präpositionen) are small words that show the relationship between nouns or pronouns and other parts of a sentence — for example: place, direction, time, or possession.
+
+In English, these are words like in, on, under, with, from, to, about.
+
+In German, each preposition affects the case (Akkusativ, Dativ, Genitiv) of the noun that follows it.
+
+🧠 Example idea:
+
+English: “The book is on the table.”
+German: “Das Buch liegt auf dem Tisch.”
+
+
+⚙️ 1️⃣ Accusative Prepositions (Akkusativpräpositionen)
+-----------------------------------------------------
+
+These prepositions always take the accusative case — used mostly for movement or direction (where to?).
+
+🔹 Common Accusative Prepositions:
+
+German		Pronunciation		English
+durch		doorkh			through
+für		fyoor			for
+gegen		gay-gen			against
+ohne		oh-neh			without
+um		oom			around / at (time)
+
+💬 Examples:
+
+Ich gehe durch den Park.
+Ikh gay-he doorkh den park. → I walk through the park.
+
+Das Geschenk ist für dich.
+Das geh-shenk ist fyoor dikh. → The gift is for you.
+
+Er fährt ohne seine Freunde.
+Air fairt oh-neh zy-neh froin-deh. → He travels without his friends.
+
+
+⚙️ 2️⃣ Dative Prepositions (Dativpräpositionen)
+---------------------------------------------
+
+These prepositions always take the dative case — used for location, position, or association (where at?).
+
+🔹 Common Dative Prepositions:
+
+German		Pronunciation		English
+aus		ows			out of / from
+bei		bye			at / near / with
+mit		mit			with
+nach		nahkh			after / to (city or country)
+seit		zyt			since / for (time)
+von		fon			from / of
+zu		tsoo			to
+
+💬 Examples:
+
+Ich komme aus Deutschland.
+Ikh kom-meh ows doytch-lahnd. → I come from Germany.
+
+Er wohnt bei seinen Eltern.
+Air vohnt bye zy-nen el-tarn. → He lives with / near his parents.
+
+Wir fahren mit dem Bus.
+Veer fahr-en mit dehm boos. → We go by bus.
+
+
+⚙️ 3️⃣ Genitive Prepositions (Genitivpräpositionen)
+-------------------------------------------------
+
+These prepositions always take the genitive case — often used in formal or written German, showing possession or relation.
+
+🔹 Common Genitive Prepositions:
+
+German		Pronunciation		English
+(an)statt	(ahn-shtat)		instead of
+trotz		trots			despite
+während		vehr-rent		during
+wegen		vay-gen			because of
+
+💬 Examples:
+
+Trotz des Regens gehen wir spazieren.
+Trots des ray-gens gay-en veer shpa-tsee-ren. → We go for a walk despite the rain.
+
+Wegen des Staus komme ich zu spät.
+Vay-gen des shtows kom-me ikh tsoo shpayt. → I am late because of the traffic jam.
+
+Anstatt des Kaffees trinke ich Tee.
+Ahn-shtat des kah-fehs trin-keh ikh tay. → Instead of coffee, I drink tea.
+
+
+⚙️ 4️⃣ Two-Way Prepositions (Wechselpräpositionen)
+------------------------------------------------
+
+These prepositions can take either accusative (movement) or dative (location) — depending on whether the action shows motion or position.
+
+�� Common Two-Way Prepositions:
+
+German		Pronunciation		English
+an		ahn			at / on (vertical surface)
+auf		owf			on / onto (horizontal surface)
+hinter		hin-ter			behind
+in		in			in / into
+neben		nay-ben			next to
+über		oo-ber			over / above
+unter		oon-ter			under
+vor		for			in front of
+zwischen	tsvish-en		between
+
+💬 Examples (Accusative = movement):
+
+Ich gehe in die Schule.
+Ikh gay-he in dee shoo-leh. → I go into the school.
+
+Er legt das Buch auf den Tisch.
+Air laygt das book owf den tish. → He puts the book onto the table.
+
+💬 Examples (Dative = location):
+
+Das Buch liegt auf dem Tisch.
+Das book leegt owf dehm tish. → The book is on the table.
+
+Der Hund schläft unter dem Bett.
+Dair hoont shlaeft oon-ter dehm bet. → The dog sleeps under the bed.
+
+
+🧩 5️⃣ Prepositional Phrases (Präpositionalphrasen)
+--------------------------------------------------
+
+These are preposition + noun combinations that act as a unit to describe where, when, or how something happens.
+
+💬 Examples:
+
+Im Büro (in dem Büro) – im boo-roh → in the office
+
+Am Wochenende (an dem Wochenende) – ahm vokh-en-en-deh → on the weekend
+
+Bei mir – bye meer → at my place
+
+
+🧩 6️⃣ Fixed Expressions with Prepositions (Feste Verbindungen)
+--------------------------------------------------------------
+
+Certain verbs, adjectives, or expressions always require specific prepositions — these must be memorized.
+
+German Expression	Pronunciation	English Translation
+warten auf (Akk.)	vahr-ten owf	to wait for
+sprechen mit (Dat.)	shprekh-en mit	to speak with
+denken an (Akk.)	denk-en ahn	to think of
+sich freuen über (Akk.)	zikh froin ooh-ber	to be happy about
+Angst haben vor (Dat.)	ahngst hah-ben for	to be afraid of
+
+💬 Example Sentences:
+
+Ich warte auf den Bus.
+Ikh vahr-te owf den boos. → I’m waiting for the bus.
+
+Sie spricht mit ihrem Lehrer.
+Zee shprikht mit eer-em lay-rer. → She is speaking with her teacher.
+
+Er denkt an seine Freunde.
+Air denkt ahn zy-neh froin-deh. → He is thinking of his friends.
+
+⚙️ Quick Summary Table
+Case Type		Question Answered		Example					Translation
+Accusative		Wohin? (Where to?)		Ich gehe durch den Park.		I go through the park.
+Dative			Wo? (Where at?)			Ich bin bei meinen Freunden.		I am with my friends.
+Genitive		Wessen? (Whose / Because of?)	Wegen des Wetters bleibe ich zu Hause.	I’m staying home because of the weather.
+Two-Way	Wohin / Wo	Ich lege das Buch auf den Tisch. / Das Buch liegt auf dem Tisch.	I put the book on the table. / The book is on the table.
+
+✅ In Short:
+
+Prepositions in German govern cases and define relationships of place, time, direction, and reason.
+Always check whether the preposition is accusative, dative, genitive, or two-way, since it changes the article form.
