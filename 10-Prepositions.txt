@@ -171,7 +171,7 @@ Case Type		Question Answered		Example					Translation
 Accusative		Wohin? (Where to?)		Ich gehe durch den Park.		I go through the park.
 Dative			Wo? (Where at?)			Ich bin bei meinen Freunden.		I am with my friends.
 Genitive		Wessen? (Whose / Because of?)	Wegen des Wetters bleibe ich zu Hause.	I’m staying home because of the weather.
-Two-Way	Wohin / Wo	Ich lege das Buch auf den Tisch. / Das Buch liegt auf dem Tisch.	I put the book on the table. / The book is on the table.
+Two-Way			Wohin / Wo			Ich lege das Buch auf den Tisch. / Das Buch liegt auf dem Tisch.	I put the book on the table. / The book is on the table.
 
 ✅ In Short:
 
