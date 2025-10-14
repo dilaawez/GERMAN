@@ -1,0 +1,129 @@
+🇩🇪 German Grammar: Conjunctions (Konjunktionen)
+================================================
+
+🧠 Definition
+
+Conjunctions are words that connect sentences, phrases, or words — just like in English words such as and, because, although, or either...or.
+
+In German, conjunctions help you combine thoughts logically.
+
+German word: Konjunktionen
+Pronunciation (English): Kon-yoonk-tsyo-nen
+
+
+1️⃣ Coordinating Conjunctions (Nebenordnende Konjunktionen)
+-----------------------------------------------------------
+
+🧠 Definition
+
+They connect equal parts of a sentence — for example, two main clauses or two words.
+The word order does not change after them.
+
+🧩 Common Coordinating Conjunctions
+German		Pronunciation (English)		English Meaning
+und		oond				and
+aber		ah-ber				but
+oder		oh-der				or
+denn		den				because / for
+sondern		zon-dern			but rather / instead
+
+💬 Examples
+
+Ich trinke Kaffee und er trinkt Tee.
+(Eekh trink-uh kah-fay oond air trinkt tay)
+→ I drink coffee and he drinks tea.
+
+Er ist müde, aber er arbeitet.
+(Air ist myoo-duh, ah-ber air ar-bye-tet)
+→ He is tired, but he is working.
+
+Ich esse kein Fleisch, sondern Gemüse.
+(Eekh es-se kïne flysh, zon-dern guh-myoo-zeh)
+→ I don’t eat meat, but rather vegetables.
+
+🧩 Easy Tip:
+Coordinating conjunctions don’t change word order — the verb stays in second position in both parts of the sentence.
+
+
+2️⃣ Subordinating Conjunctions (Unterordnende Konjunktionen)
+------------------------------------------------------------
+
+🧠 Definition
+
+These connect a main clause and a dependent clause (a clause that cannot stand alone).
+They send the verb to the end of the dependent clause.
+
+🧩 Common Subordinating Conjunctions
+German		Pronunciation (English)	English Meaning
+weil		vyle			because
+dass		dass			that
+wenn		ven			if / when
+obwohl		ob-vohl			although
+damit		dah-mit			so that
+bevor		beh-for			before
+nachdem		nahkh-daym		after
+
+💬 Examples
+
+Ich bleibe zu Hause, weil es regnet.
+(Eekh bly-buh tsoo how-zeh, vyle es rayg-net)
+→ I’m staying home because it’s raining.
+
+Er sagt, dass er keine Zeit hat.
+(Air zahkt, dass air kÿ-nuh tsyt haht)
+→ He says that he has no time.
+
+Ich gehe ins Kino, obwohl ich müde bin.
+(Eekh gay-uh ins kee-no, ob-vohl eekh myoo-duh bin)
+→ I’m going to the cinema although I’m tired.
+
+🧩 Easy Tip:
+When you use a subordinating conjunction — the verb moves to the end of that clause.
+👉 Example: weil es regnet → “because it rains.”
+
+
+3️⃣ Correlative Conjunctions (Doppelte Konjunktionen)
+----------------------------------------------------
+
+🧠 Definition
+
+These come in pairs — they connect two ideas that belong together, similar to English either...or, both...and, not only...but also.
+
+🧩 Common Correlative Conjunctions
+German				Pronunciation (English)		English Meaning
+entweder ... oder		ent-vay-der ... oh-der		either ... or
+sowohl ... als auch		zo-vohl ... alts owkh		both ... and
+nicht nur ... sondern auch	nikht noor ... zon-dern owkh	not only ... but also
+weder ... noch			vay-der ... nokh		neither ... nor
+
+💬 Examples
+
+Entweder du kommst, oder du bleibst.
+(Ent-vay-der doo komst, oh-der doo blypst)
+→ Either you come or you stay.
+
+Sowohl Peter als auch Anna sind hier.
+(Zo-vohl pay-ter alts owkh ah-nah zint heer)
+→ Both Peter and Anna are here.
+
+Er ist nicht nur klug, sondern auch fleißig.
+(Air ist nikht noor kloog, zon-dern owkh fly-sikh)
+→ He is not only smart but also hardworking.
+
+🧩 Easy Tip:
+Correlative conjunctions always come in pairs — the first half goes before one clause or word, and the second half before the other.
+
+🧭 Summary Table
+Type		Function				Word Order		Examples
+Coordinating	Connects equal parts			No change		und, aber, oder
+Subordinating	Connects main + dependent clause	Verb goes to end	weil, dass, obwohl
+Correlative	Works in pairs				No change		entweder...oder, nicht nur...sondern auch
+
+
+✅ In Short:
+
+Coordinating → joins equal ideas (verb stays second).
+
+Subordinating → introduces a reason or condition (verb to the end).
+
+Correlative → joins two equal ideas with paired words.
