@@ -1,0 +1,216 @@
+Sentence Structure & Word Order (Satzbau und Wortstellung)
+===========================================================
+
+🧠 General Definition
+
+German word order follows specific rules about where the verb and other parts of the sentence go.
+The position of the verb tells you what kind of sentence it is — statement, question, command, or subordinate clause.
+
+German: Satzbau und Wortstellung
+Pronunciation (English): Zahts-bow oont vort-shtel-loong
+English meaning: Sentence structure and word order
+
+1️⃣ Main Clauses – Verb-Second Rule (Hauptsatz – Verbzweitstellung)
+🧠 Definition
+
+In a main clause, the verb is always in the second position — even if another word comes first.
+The first position can be the subject or another element (like time or place), but the verb stays second.
+
+🧩 Examples
+
+Ich gehe heute ins Kino.
+(Eekh gay-uh hoy-tuh ins kee-no)
+→ I’m going to the cinema today.
+
+Heute gehe ich ins Kino.
+(Hoy-tuh gay-uh eekh ins kee-no)
+→ Today, I’m going to the cinema.
+
+Mein Freund spielt Fußball.
+(Mine froynt shpeelt foos-bahl)
+→ My friend plays football.
+
+Morgen arbeite ich zu Hause.
+(Mor-gen ar-bye-tuh eekh tsoo how-zeh)
+→ Tomorrow, I work from home.
+
+Er liest ein Buch.
+(Air leest ine bookh)
+→ He is reading a book.
+
+🧩 Tip:
+Whatever comes first, the verb must always be second.
+(E.g., Time → Verb → Subject → Rest)
+
+2️⃣ Subordinate Clauses – Verb-Final (Nebensatz – Verbletztstellung)
+🧠 Definition
+
+In a subordinate clause (introduced by subordinating conjunctions like weil, dass, wenn), the verb goes to the end of the clause.
+
+🧩 Examples
+
+Ich bleibe zu Hause, weil es regnet.
+(Eekh bly-buh tsoo how-zeh, vyle es rayg-net)
+→ I’m staying home because it’s raining.
+
+Er sagt, dass er müde ist.
+(Air zahkt, dass air myoo-duh ist)
+→ He says that he is tired.
+
+Wenn ich Zeit habe, gehe ich spazieren.
+(Ven eekh tsyt hah-buh, gay-uh eekh shpah-tsee-ren)
+→ When I have time, I go for a walk.
+
+Ich weiß nicht, ob er kommt.
+(Eekh vys nikht, ob air komt)
+→ I don’t know if he’s coming.
+
+Bevor ich esse, wasche ich meine Hände.
+(Beh-for eekh es-seh, vah-sheh eekh my-nuh hen-duh)
+→ Before I eat, I wash my hands.
+
+🧩 Tip:
+Main clause → verb 2nd
+Subordinate clause → verb at the end.
+
+3️⃣ Questions (Fragen)
+🟢 a) Yes/No Questions (Ja/Nein-Fragen)
+
+The verb comes first, followed by the subject.
+
+Kommst du heute? (Komst doo hoy-tuh) → Are you coming today?
+
+Hast du Hunger? (Hahst doo hoong-er) → Are you hungry?
+
+Geht er zur Arbeit? (Gayt air tsoor ar-byt) → Is he going to work?
+
+Magst du Kaffee? (Mahkst doo kah-fay) → Do you like coffee?
+
+Wohnst du hier? (Vohnst doo heer) → Do you live here?
+
+🟣 b) W-Questions (W-Fragen)
+
+Start with a question word like wer, was, wo, wann, warum, etc.
+The verb comes second.
+
+Wie heißt du? (Vee hyst doo) → What’s your name?
+
+Wo wohnst du? (Voh vohnst doo) → Where do you live?
+
+Wann kommst du? (Vahn komst doo) → When are you coming?
+
+Warum lernst du Deutsch? (Vah-room lernst doo doytch) → Why are you learning German?
+
+Was machst du heute? (Vahs makhst doo hoy-tuh) → What are you doing today?
+
+4️⃣ Commands (Imperatives)
+🧠 Definition
+
+Used to give orders or requests.
+The verb comes first, and the subject (you) is usually dropped.
+
+🧩 Examples
+
+Komm hierher! (Kom heer-hair) → Come here!
+
+Mach das Fenster zu! (Mahkh dahs fen-ster tsoo) → Close the window!
+
+Sei ruhig! (Zye roo-ikh) → Be quiet!
+
+Lies das Buch! (Lees dahs bookh) → Read the book!
+
+Warte einen Moment! (Var-tuh eye-nen mo-ment) → Wait a moment!
+
+🧩 Tip:
+
+For “du” → verb stem only (Komm!)
+
+For “ihr” → verb + “t” (Kommt!)
+
+For “Sie” → full form (Kommen Sie!)
+
+5️⃣ Inversion Rules (Inversion – Umstellung)
+🧠 Definition
+
+When something other than the subject (like time, place, or an adverb) starts the sentence, the verb comes second, and the subject moves after it.
+
+🧩 Examples
+
+Heute gehe ich ins Büro. → Today I go to the office.
+
+Morgen fahre ich nach Berlin. → Tomorrow I travel to Berlin.
+
+Am Abend lese ich ein Buch. → In the evening I read a book.
+
+Dann essen wir. → Then we eat.
+
+Plötzlich regnete es. → Suddenly it rained.
+
+🧩 Tip:
+Inversion doesn’t change the meaning — it’s just for emphasis or flow.
+
+6️⃣ Negation (Verneinung)
+🧠 Definition
+
+In German, you can say “no” or “not” using nicht or kein, depending on what you are negating.
+
+🧩 Rules
+
+nicht → used to negate verbs, adjectives, adverbs, or whole sentences
+
+kein → used to negate nouns that have no article or an indefinite article (ein)
+
+💬 Examples with “nicht”
+
+Ich komme nicht. → I’m not coming.
+
+Er ist nicht hier. → He’s not here.
+
+Das ist nicht gut. → That’s not good.
+
+Ich mag das nicht. → I don’t like that.
+
+Wir spielen nicht heute. → We’re not playing today.
+
+💬 Examples with “kein”
+
+Ich habe kein Geld. → I have no money.
+
+Sie hat keine Zeit. → She has no time.
+
+Wir sehen keinen Film. → We’re not watching a movie.
+
+Er hat kein Auto. → He has no car.
+
+Ich trinke keinen Kaffee. → I drink no coffee / I don’t drink coffee.
+
+🧩 Tip:
+
+“kein” replaces “ein”
+
+“nicht” negates everything else
+👉 Ich habe ein Auto → Ich habe kein Auto
+👉 Ich bin müde → Ich bin nicht müde
+
+⚖️ Rules & Exceptions (Regeln und Ausnahmen)
+
+Verb-second rule always applies in main clauses — no exceptions.
+
+Verb-final rule applies in subordinate clauses (introduced by weil, dass, obwohl).
+
+Inversion doesn’t change meaning — only emphasis.
+
+Nicht goes before adjectives/adverbs but after the verb.
+
+Kein changes with gender and case (kein, keine, keinen, etc.).
+
+✅ Summary
+
+Sentence Type	Verb Position	Example	Translation
+Main Clause	2nd	Ich gehe ins Kino.	I’m going to the cinema.
+Subordinate Clause	End	Ich bleibe, weil es regnet.	I stay because it rains.
+Yes/No Question	1st	Kommst du?	Are you coming?
+W-Question	2nd	Wo wohnst du?	Where do you live?
+Command	1st	Komm hierher!	Come here!
+Inversion	2nd	Heute gehe ich.	Today I go.
+Negation	varies	Ich habe kein Geld.	I have no money.
