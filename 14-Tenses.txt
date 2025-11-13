@@ -1,0 +1,278 @@
+ 1.Präsens (Present Tense)
+ ========================
+
+    Definition:
+    ------------
+    Used for actions happening now, repeatedly, or in the near future.
+    It’s the most common tense in spoken and written German.
+
+    → Action is happening now, regularly, or soon.
+
+    PAST      |------ NOW ------|------ FUTURE
+                Ich lerne Deutsch.  
+
+    Structure:
+    -----------
+    Subject + Verb (in present form) + rest of sentence
+
+    Usage:
+    ------
+    Talking about current actions → Ich lese ein Buch. (I am reading a book.)
+    Habitual actions → Er arbeitet jeden Tag. (He works every day.)
+    Near future → Wir fahren morgen. (We are going tomorrow.)
+
+    Examples:
+
+        Ich lerne Deutsch.
+        (I learn / am learning German.)
+        Pronunciation: [Eekh ler-neh Doytsh]
+
+        Er spielt Fußball.
+        (He plays football.)
+        Pronunciation: [Air shpeelt foos-bal]
+
+        Wir gehen morgen ins Kino.
+        (We are going to the cinema tomorrow.)
+        Pronunciation: [Veer gay-en mor-gen ins kee-no]
+
+    Tip: German Präsens can express present and near future, unlike English which separates present continuous and future with “will”.
+
+
+ 2.Präteritum (Simple Past / Imperfect)
+
+    Definition:
+    ------------
+    Used mainly in written language (stories, reports, books) for past actions.
+    In spoken German, you’ll often use Perfekt instead.
+
+    → Action happened in the past; mainly used in writing and storytelling.
+
+    PAST ----X (action completed)----------------|
+                Ich lernte Deutsch.
+
+    Structure:
+    ----------
+    Subject + Verb (simple past form) + rest
+
+    Usage:
+    ------
+    Common in books, news, formal writing.
+    Spoken only with sein, haben, können, müssen:
+
+        Ich war müde. (I was tired.)
+        Ich hatte Hunger. (I was hungry.)
+
+    Examples:
+
+        Ich lernte Deutsch.
+        (I learned German.)
+        Pronunciation: [Eekh lern-te Doytsh]
+
+        Er spielte Fußball.
+        (He played football.)
+        Pronunciation: [Air shpeel-te foos-bal]
+
+        Wir gingen ins Kino.
+        (We went to the cinema.)
+        Pronunciation: [Veer ging-en ins kee-no]
+
+    Tip: Common verbs like sein (was) and haben (had) are always used in Präteritum, even in speech:
+
+        Ich war müde. (I was tired.)
+        Ich hatte Hunger. (I was hungry.)
+
+
+ 3.Perfekt (Present Perfect)
+ =============================
+
+    Definition:
+    -----------
+    Used in spoken German to describe past actions with a connection to the present.
+    Equivalent to English “have done” or simple past.
+
+    → Action happened in the past but affects the present.
+
+    PAST ----X (action done)----|---- NOW
+                Ich habe Deutsch gelernt.
+
+    Structure:
+    ----------
+    Subject + haben/sein + past participle (Partizip II)
+    (Verb at the end!)
+
+    Usage:
+    ------
+    Common in spoken German for any past action.
+    Use haben for most verbs, sein for motion/change verbs.
+
+    Examples:
+
+        Ich habe Deutsch gelernt.
+        (I have learned / I learned German.)
+        Pronunciation: [Eekh hah-be Doytsh geh-lernt]
+
+        Er ist nach Berlin gefahren.
+        (He has gone / went to Berlin.)
+        Pronunciation: [Air ist nahkh Ber-leen geh-fah-ren]
+
+        Wir haben einen Film gesehen.
+        (We watched a movie.)
+        Pronunciation: [Veer hah-ben eye-nen film geh-zay-en]
+
+    Tip:
+
+        Use haben for most verbs.
+        Use sein for motion or change of state verbs (gehen, kommen, fahren, werden).
+
+
+ 4.Plusquamperfekt (Past Perfect)
+ ================================
+
+    Definition:
+    -----------
+    Used for actions that happened before another past action.
+    Equivalent to English “had done”.
+
+    → Action happened before another past event.
+
+    PAST (earlier) --X-- (later past) --X-- NOW
+                Ich hatte Deutsch gelernt, bevor ich nach Deutschland kam.
+
+    Structure:
+    -----------
+    Subject + hatten/waren + past participle
+
+    Usage:
+    ------
+    Sequence of past events (past of the past).
+    Used with bevor (before), nachdem (after).
+
+    Examples:
+
+        Ich hatte Deutsch gelernt, bevor ich nach Deutschland kam.
+        (I had learned German before I came to Germany.)
+        Pronunciation: [Eekh hat-te Doytsh geh-lernt, beh-for eekh nahkh Doytsh-lahnd kahm]
+
+        Er war schon gegangen, als ich ankam.
+        (He had already left when I arrived.)
+        Pronunciation: [Air var shon geh-gang-en, als eekh an-kahm]
+
+    Tip: Think of Plusquamperfekt as the “past of the past.”
+
+
+ 5.Futur I (Future I)
+ =====================
+ 
+    Definition:
+    ------------
+    Used for future actions or assumptions about the present.
+    Equivalent to English “will do” or “probably is”.
+
+    → Action will happen in the future OR assumption about the present.
+
+    PAST -------- NOW --------> FUTURE (planned)
+                                Ich werde Deutsch lernen.
+
+    Structure:
+    -----------
+    Subject + werden + infinitive (verb in base form at end)
+
+    Usage:
+    ------
+    Used for formal or clear future statements.
+    In daily talk, Präsens + time word replaces it.
+        → Ich lerne morgen Deutsch. (I’ll learn German tomorrow.)
+
+    Examples:
+
+        Ich werde Deutsch lernen.
+        (I will learn German.)
+        Pronunciation: [Eekh vehr-de Doytsh ler-nen]
+
+        Er wird morgen kommen.
+        (He will come tomorrow.)
+        Pronunciation: [Air veert mor-gen koh-men]
+
+    Tip: In daily life, Germans often just use Präsens + time word for future meaning:
+
+        Ich gehe morgen. (I’ll go tomorrow.)
+
+
+ 6.Futur II (Future Perfect)
+ ============================
+    
+    Definition:
+    -----------
+    Used for actions that will have been completed in the future or assumptions about the past.
+
+    → Action will have been completed by a future time.
+
+    PAST ------- NOW --------> FUTURE (already done)
+                                Ich werde Deutsch gelernt haben.
+
+    Structure:
+    ----------
+    Subject + werden + past participle + haben/sein
+
+    Usage:
+
+    Rare; used in writing or formal speech.
+    Can express assumption about the past:
+        Er wird gegangen sein. (He must have left.)
+
+    Examples:
+
+        Ich werde Deutsch gelernt haben.
+        (I will have learned German.)
+        Pronunciation: [Eekh vehr-de Doytsh geh-lernt hah-ben]
+
+        Er wird nach Hause gegangen sein.
+        (He will have gone home.)
+        Pronunciation: [Air veert nahkh hou-ze geh-gang-en zine]
+
+    Tip: Mostly used in formal writing or educated speech.
+
+    German Tense Timeline (Zeitformen – Visual Overview)
+    =====================================================
+
+    <———------------ PAST ------------———|———------------- PRESENT -------------———|———------------ FUTURE ------------———>
+
+    Plusquamperfekt         Perfekt / Präteritum            Präsens                 Futur I                 Futur II
+        (had done)               (did / have done)           (do / am doing)        (will do)             (will have done)
+            ↓                          ↓                        ↓                 ↓                        ↓
+    ─────────●──────────────────────────●────────────────────────●────────────────●────────────────────────●─────────
+    Ich hatte gelernt.      Ich habe gelernt. / Ich lernte.     Ich lerne.    Ich werde lernen.       Ich werde gelernt haben.
+    (I had learned)          (I learned / have learned)         (I learn)     (I will learn)          (I will have learned)
+
+
+    Explanation of Timeline
+    ------------------------
+    Time Zone	                Tense (German)	    Meaning in English	            Example Sentence	                                                                When to Use
+    ----------                  --------------      -------------------             -----------------                                                                   ------------
+    Far Past	                Plusquamperfekt	    had done	                    Ich hatte Deutsch gelernt, bevor ich kam.(I had learned German before I came.)	    To describe something that happened before another past event.
+    Recent / Spoken Past	    Perfekt	            did / have done	                Ich habe Deutsch gelernt. (I learned / have learned German.)	                    Everyday speech for completed past actions.
+    Written Past	            Präteritum	        did	                            Ich lernte Deutsch. (I learned German.)	                                            Written language, storytelling, news reports.
+    Now / Habit / Near Future	Präsens	            do / am doing / will (contextual)	Ich lerne Deutsch. (I learn / am learning German.)	                            General present, habits, or scheduled future.
+    Future (planned)	        Futur I	            will do	                        Ich werde Deutsch lernen. (I will learn German.)	                                Future intention, prediction, or formal speech.
+    Future (completed)	        Futur II	        will have done	                Ich werde Deutsch gelernt haben. (I will have learned German.)	                    Future completed action or assumption about the past.
+
+
+    Summary Table
+    -------------
+    German                  Tense	                        English Equivalent	                Example (German)	                Translation	Usage
+    -------                 ------                          -------------------                 -----------------                   ------------------
+    Präsens	                Present / Near Future	        Ich lerne Deutsch.	                I learn/am learning German.	        Everyday speech
+    Präteritum	            Simple Past	                    Ich lernte Deutsch.	                I learned German.	                Written narrative
+    Perfekt	                Present Perfect / Simple Past	Ich habe Deutsch gelernt.	        I have learned German.	            Spoken past
+    Plusquamperfekt	        Past Perfect	                Ich hatte Deutsch gelernt.	        I had learned German.	            Past before past
+    Futur I	                Future	                        Ich werde Deutsch lernen.	        I will learn German.	            Future events
+    Futur II	            Future Perfect	                Ich werde Deutsch gelernt haben.	I will have learned German.	        Completed future
+
+
+    💡 Helpful Notes
+
+    ✅ Präsens = Most commonly used (even for future)
+    ✅ Perfekt = Spoken past
+    ✅ Präteritum = Written past
+    ✅ Plusquamperfekt = Past before another past
+    ✅ Futur I & II = Future and “future of the past”
