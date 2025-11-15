@@ -1,0 +1,351 @@
+THE COMPLETE GUIDE TO GERMAN VERBS, CONJUGATION & PARTICIPLES
+==============================================================
+(With English pronunciations for all German words)
+
+1️⃣ WHAT IS A VERB IN GERMAN?
+
+    Verb (das Verb / das Tätigkeitswort) — vairb / teh-tik-kites-vort
+    → A word that shows an action, state, or process.
+
+    Examples:
+
+        gehen – to go — gay-en
+        lesen – to read — lay-zen
+        sein – to be — zine
+        haben – to have — hah-ben
+
+
+2️⃣ THE STRUCTURE OF GERMAN VERBS
+
+    Every verb has:
+
+    1. Infinitive (Grundform)
+
+    Ending in -en or -n
+
+        machen – to do — mah-khen
+        arbeiten – to work — ar-bite-en
+
+    2. Stem (Verbstamm)
+
+    Infinitive minus -en
+
+        machen → mach–
+        lernen → lern–
+
+    3. Endings (Endungen)
+
+    Added depending on tense and pronoun.
+
+
+3️⃣ TYPES OF GERMAN VERBS (Very Important!)
+
+German divides verbs into 6 types.
+
+    A. REGULAR (Weak) Verbs — schwache Verben
+    ------------------------------------------
+
+    shvah-khe vair-ben
+    They do not change the stem in past tenses.
+
+    Examples:
+
+        lernen — to learn — ler-nen
+        spielen — to play — shpee-len
+        machen — to make — mah-khen
+    Past participle: gelernt, gespielt, gemacht.
+
+B. IRREGULAR (Strong) Verbs — starke Verben
+
+    shtar-ke vair-ben
+    These verbs change their stem vowel in past tenses.
+
+    Examples:
+
+        fahren — to drive — fah-ren → fuhr, gefahren
+        sehen — to see — zay-en → sah, gesehen
+        sprechen — to speak — shpreh-khen → sprach, gesprochen
+
+C. MIXED Verbs — gemischte Verben
+
+    They have regular endings but irregular past forms.
+
+    Examples:
+
+        bringen — to bring — bring-en → brachte / gebracht
+        denken — to think — den-ken → dachte / gedacht
+
+D. MODAL Verbs — Modalverben
+
+    Used with another verb (infinitive at the end).
+
+    List of modal verbs:
+
+        können – can — kuhn-nen
+        dürfen – may — deur-fen
+        müssen – must — mue-sen
+        sollen – should — zol-len
+        wollen – want — vol-len
+        mögen – like — moh-gen
+
+    Example:
+        Ich kann schwimmen.
+        (I can swim.)
+    Pronunciation: Eekh kann shvim-men.
+
+E. SEPARABLE Verbs — trennbare Verben
+
+    Prefix moves to the end in present & simple past.
+
+    Examples:
+
+        aufstehen – to get up — ouf-shtey-en
+        mitkommen – to come along — mit-kom-men
+        anrufen – to call — ahn-roo-fen
+
+    Example sentence:
+        Ich stehe um 7 Uhr auf.
+        (I get up at 7.)
+        Eekh shtay-he oom ziben oor ouf
+
+F. REFLEXIVE Verbs — reflexive Verben
+
+    Verb + reflexive pronoun (sich / mir / dir …)
+
+    Examples:
+
+        sich waschen – wash oneself — zikh vah-shen
+        sich freuen – be glad — zikh froi-en
+
+    Example:
+        Ich wasche mich.
+        (I wash myself.)
+        Eekh vah-she mikh
+
+4️⃣ AUXILIARY VERBS — The Most Important 3
+
+    They create compound tenses.
+
+    1. haben — have — hah-ben
+    2. sein — be — zine
+    3. werden — will/become — vehr-den
+
+    Used for:
+
+        Perfekt
+        Plusquamperfekt
+        Futur I
+        Futur II
+        Passive Voice
+
+5️⃣ GERMAN VERB CONJUGATION (Present Tense Template)
+
+Regular pattern:
+
+    Pronoun	    Ending	    Example: machen (to make)
+    --------    -------     --------------------------
+    ich	        -e	        mache — mah-khe
+    du	        -st	        machst — makhst
+    er/sie/es	-t	        macht — makht
+    wir	        -en	        machen — mah-khen
+    ihr	        -t	        macht — makht
+    sie/Sie	    -en	        machen — mah-khen
+
+6️⃣ ALL GERMAN TENSES (With Pronunciation & Structure)
+
+German has 6 tenses.
+
+1. Präsens — Present
+
+    pray-zens
+    Used for: now / general / future.
+
+    Ich gehe. — I go.
+    Pronunciation: Eekh gay-e
+
+2. Präteritum — Simple Past
+
+    pruh-teh-ri-toom
+    Mainly written form.
+
+    Ich ging. — I went.
+    Eekh ging
+
+3. Perfekt — Spoken Past
+
+    pair-fekt
+    haben/sein + Partizip II
+
+    Ich bin gegangen. — I have gone.
+    Eekh bin geh-gang-en
+
+4. Plusquamperfekt — Past Perfect
+
+    ploos-kvam-pair-fekt
+    hatte/war + Partizip II
+
+    Ich war gegangen. — I had gone.
+    Eekh var geh-gang-en
+
+5. Futur I — Future
+
+    werden + Infinitive
+
+    Ich werde gehen. — I will go.
+    Eekh vehr-de gay-en
+
+6. Futur II — Future Perfect
+
+    werden + Partizip II + haben/sein
+
+    Ich werde gegangen sein.
+    —I will have gone.
+    Eekh vehr-de geh-gang-en zine
+
+
+7️⃣ PARTICIPLES (Very Important)
+
+German has two participles.
+
+A. Partizip I (Present Participle)
+
+    par-ti-tsip ayn
+    = verb + -d
+    Meaning: “-ing”
+
+    Examples:
+
+    gehend — going — gay-end
+
+    lachend — laughing — lakh-end
+
+    Used mostly as adjectives.
+
+B. Partizip II (Past Participle)
+
+    par-ti-tsip tsvai
+
+    Used for:
+
+        Perfekt
+        Plusquamperfekt
+        Passive voice
+
+Formation rules:
+
+    1. Regular (weak) verbs:
+
+    ge- + stem + -t
+
+    gelernt — geh-lernt
+    gemacht — geh-makht
+    gespielt — geh-shpeelt
+
+2. Irregular (strong) verbs:
+
+    ge- + stem + -en
+
+    gesehen — geh-zay-en
+    geschrieben — geh-shree-ben
+    gesprochen — geh-shpro-khen
+
+3. Mixed verbs:
+
+    Irregular stem + -t
+
+    gedacht — geh-dakht
+    gebracht — geh-brakht
+
+4. Prefix verbs:
+
+    Separable:
+
+    Prefix + ge + stem + ending
+
+        aufstehen → aufgestanden — ouf-geh-shtan-den
+
+    Inseparable (be-, ver-, zer-, er-, ent-, emp-, miss-)
+
+    NO “ge-”
+
+        verstehen → verstanden — fair-shtan-den
+        bekommen → bekommen — beh-kom-men
+
+
+8️⃣ SUBJUNCTIVE (Konjunktiv II)
+
+    Used for:
+
+        politeness
+        wishes
+        unreal situations
+        hypotheticals
+
+    Examples:
+
+        Ich würde gehen. — I would go. — veer-de
+        Ich hätte Zeit. — I would have time.
+        Ich wäre dort. — I would be there.
+
+
+9️⃣ IMPERATIVE (Commands)
+
+    Examples:
+
+        Geh! — Go! — gay
+        Kommt! — Come (you all)! — komt
+        Seien Sie ruhig! — Be quiet! (formal)
+
+
+🔟 PASSIVE VOICE
+
+A. Vorgangspassiv (process passive)
+
+    werden + Partizip II
+    Describes action.
+
+    Der Brief wird geschrieben.
+    (The letter is being written.)
+    vaird geh-shree-ben
+
+B. Zustandspassiv (state passive)
+
+    sein + Partizip II
+    Describes result.
+
+    Der Brief ist geschrieben.
+    (The letter is written.)
+    ist geh-shree-ben
+
+
+1️⃣1️⃣ VERB POSITION RULES (Extremely Important!)
+
+A. Main clause: verb = 2nd position
+
+    Ich lerne Deutsch.
+    (I learn German.)
+
+B. Yes/no question: verb = 1st
+
+    Lernst du Deutsch?
+    (Are you learning German?)
+
+C. Subordinate clause: verb = last
+
+    …, weil ich Deutsch lerne.
+    (…because I learn German.)
+
+D. Two verbs: conjugated verb in 2nd, the other at the end
+
+    Ich will Deutsch lernen.
+    (I want to learn German.)
+
+1️⃣2️⃣ MASTER TABLE (Summary)
+
+    Category	        Pattern	            Example	            Pronunciation
+    ---------           --------            --------            --------------
+    Regular	            ge–stem–t	        gemacht	            geh-makht
+    Irregular	        ge–stem–en	        gesprochen	        geh-shpro-khen
+    Mixed	            “irregular” + -t	gedacht	            geh-dakht
+    Separable	        prefix + ge + stem	aufgestanden	    ouf-geh-shtan-den
+    Inseparable	        no ge	            verstanden	        fair-shtan-den
