@@ -138,164 +138,131 @@ When learning German nouns, there are several important parts and concepts you s
 
 ✅ 1. Gender (Genus) of Nouns
 
-Every German noun has a grammatical gender:
+    Every German noun has a grammatical gender:
 
-der (masculine)
+    der (masculine)
+    die (feminine)
+    das (neuter)
 
-die (feminine)
+    Examples:
 
-das (neuter)
-
-Examples:
-
-der Tisch – the table
-
-die Blume – the flower
-
-das Haus – the house
+        der Tisch – the table
+        die Blume – the flower
+        das Haus – the house
 
 ✅ 2. Plural Forms
 
-Plural endings vary and must often be learned:
+    Plural endings vary and must often be learned:
 
-die Häuser (Haus → Häuser)
+    die Häuser (Haus → Häuser)
+    die Tische (Tisch → Tische)
+    die Frauen (Frau → Frauen)
 
-die Tische (Tisch → Tische)
-
-die Frauen (Frau → Frauen)
-
-Common plural endings: -e, -er, -en, -s, umlaut (ä, ö, ü)
+    Common plural endings: -e, -er, -en, -s, umlaut (ä, ö, ü)
 
 ✅ 3. Case System (Kasus)
 
-German nouns change according to grammatical case:
+    German nouns change according to grammatical case:
 
-Nominative – subject
+    Nominative – subject
+    Accusative – direct object
+    Dative – indirect object
+    Genitive – possession
 
-Accusative – direct object
+    Example:
 
-Dative – indirect object
-
-Genitive – possession
-
-Example:
-
-der Hund (Nom.)
-
-Ich sehe den Hund. (Acc.)
-
-Ich gebe dem Hund ein Spielzeug. (Dat.)
-
-Das Spielzeug des Hundes. (Gen.)
+        der Hund (Nom.)
+        Ich sehe den Hund. (Acc.)
+        Ich gebe dem Hund ein Spielzeug. (Dat.)
+        Das Spielzeug des Hundes. (Gen.)
 
 ✅ 4. Articles (Determiners)
 
-German uses different types of articles:
+    German uses different types of articles:
 
-Definite articles
+    Definite articles
+        der, die, das / die (pl.)
 
-der, die, das / die (pl.)
+    Indefinite articles
+        ein, eine
 
-Indefinite articles
+    Negative article
+        kein, keine
 
-ein, eine
-
-Negative article
-
-kein, keine
-
-All change by case and gender.
+    All change by case and gender.
 
 ✅ 5. Noun Declension
 
-Certain nouns (mostly masculine) add an -n or -en in cases other than nominative.
+    Certain nouns (mostly masculine) add an -n or -en in cases other than nominative.
 
-Examples:
+    Examples:
 
-der Junge → den Jungen → dem Jungen → des Jungen
+        der Junge → den Jungen → dem Jungen → des Jungen
+        der Student → den Studenten
 
-der Student → den Studenten
-
-These are called N-nouns or weak nouns.
+    These are called N-nouns or weak nouns.
 
 ✅ 6. Capitalization
 
-All nouns are always capitalized in German.
-Examples:
+    All nouns are always capitalized in German.
+    Examples:
 
-der Tisch
-
-die Freiheit
-
-das Auto
+    der Tisch
+    die Freiheit
+    das Auto
 
 ✅ 7. Compound Nouns
 
-German loves compound nouns — long words created by joining smaller words.
+    German loves compound nouns — long words created by joining smaller words.
 
-Examples:
+    Examples:
 
-Handschuh (Hand + Schuh = glove)
+        Handschuh (Hand + Schuh = glove)
+        Krankenhaus (Krank + Haus = hospital)
+        Lebensmittelgeschäft (grocery store)
 
-Krankenhaus (Krank + Haus = hospital)
-
-Lebensmittelgeschäft (grocery store)
-
-The last word decides the gender.
+    The last word decides the gender.
 
 ✅ 8. Countable vs. Uncountable nouns
 
-Countable:
+    Countable:
+        der Apfel (apple)
 
-der Apfel (apple)
-
-Uncountable:
-
-das Wasser (water)
-
-die Milch (milk)
+    Uncountable:
+        das Wasser (water)
+        die Milch (milk)
 
 ✅ 9. Semantic categories of nouns
 
-Nouns can be grouped by meaning:
+    Nouns can be grouped by meaning:
 
-People – der Mann, die Frau
-
-Animals – der Hund, die Katze
-
-Objects – das Buch, der Schlüssel
-
-Places – die Stadt, das Land
-
-Abstract things – die Liebe, das Glück
+        People – der Mann, die Frau
+        Animals – der Hund, die Katze
+        Objects – das Buch, der Schlüssel
+        Places – die Stadt, das Land
+        Abstract things – die Liebe, das Glück
 
 ✅ 10. Noun endings that help identify gender
 
-Some endings almost always indicate gender:
+    Some endings almost always indicate gender:
 
-Masculine (der):
+    Masculine (der):
 
--er (der Computer)
+        -er (der Computer)
+        -en (der Garten)
+        -ig (der König)
 
--en (der Garten)
+    Feminine (die):
 
--ig (der König)
+        -ung (die Zeitung)
+        -heit / -keit (die Freiheit)
+        -schaft (die Mannschaft)
 
-Feminine (die):
+    Neuter (das):
 
--ung (die Zeitung)
-
--heit / -keit (die Freiheit)
-
--schaft (die Mannschaft)
-
-Neuter (das):
-
--chen / -lein (das Mädchen)
-
--ment (das Instrument)
-
--um (das Zentrum)
+        -chen / -lein (das Mädchen)
+        -ment (das Instrument)
+        -um (das Zentrum)
 
 ===================================================================
 Types of Nouns in German — With English Pronunciation
@@ -448,3 +415,5 @@ Types of Nouns in German — With English Pronunciation
 
 
     .
+
+    2
